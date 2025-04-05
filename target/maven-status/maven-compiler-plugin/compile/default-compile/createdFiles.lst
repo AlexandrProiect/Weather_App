@@ -1,0 +1,7 @@
+com\alexdev\springboot_alex_weatherapp\SpringbootAlexWeatherappApplication.class
+com\alexdev\springboot_alex_weatherapp\WeatherResponse.class
+com\alexdev\springboot_alex_weatherapp\AppConfig.class
+com\alexdev\springboot_alex_weatherapp\WeatherResponse$Wind.class
+com\alexdev\springboot_alex_weatherapp\WeatherResponse$Weather.class
+com\alexdev\springboot_alex_weatherapp\WeatherController.class
+com\alexdev\springboot_alex_weatherapp\WeatherResponse$Main.class
